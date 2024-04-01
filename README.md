@@ -32,4 +32,4 @@ You can use your own dataset of grapevine leaf images or explore publicly availa
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/sneyah/Plant-disease-detection/blob/master/LICENSE.txt) file for details.
